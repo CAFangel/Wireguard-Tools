@@ -33,7 +33,7 @@ pkg install figlet
 
 pkg install wget
 
-wget https://raw.githubusercontent.com/CAFangel/wg/master/wg.sh
+wget https://raw.githubusercontent.com/CAFangel/Wireguard-Tools/b98b59649c49942e0cae77ad4b4f8c60e964702c/wg.sh
 
 Jalankan Script > sh wg.sh
 
